@@ -23,13 +23,7 @@
                     </md-input-container>
 				</span>
 
-				<span layout="row" layout-sm="column">
-					<md-input-container flex class="last">
-                        <label>Description</label>
-                        <textarea name="info" ng-model="create.compliance.description"></textarea>
-                    </md-input-container>
-				</span>
-
+				
             </section>
 
         </form>
